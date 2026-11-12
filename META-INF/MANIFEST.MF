@@ -1,0 +1,306 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: AndroidManifest.xml
+SHA1-Digest: 6340EGnMZkYYMTF7MnlQl8q3Dy4=
+
+Name: assets/Font/AnandaMJ-Regular.ttf
+SHA1-Digest: NA8MUwozZG/SfHIuOAS+X7MEQPo=
+
+Name: classes.dex
+SHA1-Digest: lWVH8iwZYHSMXE6Sic2XeQ1Yt/k=
+
+Name: res/drawable-hdpi-v4/ic_launcher.png
+SHA1-Digest: Nq8q3HeTluE5JNCBpVvNy3BXtJI=
+
+Name: res/drawable-mdpi-v4/ic_launcher.png
+SHA1-Digest: RRxOSvpmhVfCwiprVV/wZlaqQpw=
+
+Name: res/drawable-xhdpi-v4/ic_launcher.png
+SHA1-Digest: AfPh3OJoypH966MludSW6f1RHg4=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: GVIfdEOBv4gEny2T1jDhGGsZOBo=
+
+Name: res/drawable/a_kar.png
+SHA1-Digest: gkheYZAN3kVVE2ei3cWcGaERV0o=
+
+Name: res/drawable/aa_kar.png
+SHA1-Digest: TAZPBUTSJQFyx68C2x/bdxXr0m0=
+
+Name: res/drawable/abc.png
+SHA1-Digest: /Hkuc1iv/nHxxGzMBX03p3YrCJY=
+
+Name: res/drawable/abc_kb.png
+SHA1-Digest: paDk5J/2Dkw2KubqKHvWjcD5W8E=
+
+Name: res/drawable/b_one.png
+SHA1-Digest: IzW9gQH+0+IDuOXuhbdnNQuxEDg=
+
+Name: res/drawable/bijoy_kb.png
+SHA1-Digest: iHbcPS8APVLD+IYhtN+9NURPmo0=
+
+Name: res/drawable/bijoyandroidicon.png
+SHA1-Digest: GkcJPDKq9YX0ubR0i/cxzlptzv8=
+
+Name: res/drawable/bisorga.png
+SHA1-Digest: qy7AU9rWDk4QV5QMwKl2CciCrO8=
+
+Name: res/drawable/bn.png
+SHA1-Digest: 7sYXq+r60E5WgEB3K4lG58CZI1M=
+
+Name: res/drawable/del.png
+SHA1-Digest: M3+A3b7tTCXnhtiLVp1gQkaxbzk=
+
+Name: res/drawable/delete.png
+SHA1-Digest: m2EfxEHQV0dORYGY1mwMKU6rG0k=
+
+Name: res/drawable/delete_1.png
+SHA1-Digest: BrlVHKQ6KmB0QFyX29lUJJE84aw=
+
+Name: res/drawable/delete_4.png
+SHA1-Digest: c8qAdRKszviXAQRo8sxXeodKHNg=
+
+Name: res/drawable/delete_b.png
+SHA1-Digest: gn3eEjO60SZgEyZf1jSgheoy6lk=
+
+Name: res/drawable/delete_nw.png
+SHA1-Digest: c8qAdRKszviXAQRo8sxXeodKHNg=
+
+Name: res/drawable/delete_q.png
+SHA1-Digest: h6HvUL6R9OXdmpb95WgDSaAS9YI=
+
+Name: res/drawable/delete_q3.png
+SHA1-Digest: Wy1KuA+LivE/kdG9lzfkEABoTHU=
+
+Name: res/drawable/delete_w.png
+SHA1-Digest: m2EfxEHQV0dORYGY1mwMKU6rG0k=
+
+Name: res/drawable/dhree.png
+SHA1-Digest: IPq3Z0JhwZcZcX5jaoS0ocegeCk=
+
+Name: res/drawable/dhru_kar.png
+SHA1-Digest: mqa+7FG+cRkJUuHNTyNppOF0fN4=
+
+Name: res/drawable/english.png
+SHA1-Digest: P8MajiYdXnCFpwQP7WvCKEOBbB8=
+
+Name: res/drawable/enter.png
+SHA1-Digest: Bbd8XG9IIHuUr+0BYTrVG87CeRs=
+
+Name: res/drawable/ja_fola.png
+SHA1-Digest: 1vPO2jl5CbcJwjRh5pO8kqP/+ks=
+
+Name: res/drawable/jukta.png
+SHA1-Digest: MxsVxRY5ahMGNjdhLdHH42109xY=
+
+Name: res/drawable/ka.png
+SHA1-Digest: 6Hi5mkgDcg/xszv9ma72qftlYEA=
+
+Name: res/drawable/more.png
+SHA1-Digest: Oi0pqxlzFtz2vrsRn6hq3NlarhU=
+
+Name: res/drawable/more_1.png
+SHA1-Digest: DTr1GgAyv99Q7Yy4mMILn8MwMNY=
+
+Name: res/drawable/more_l.png
+SHA1-Digest: rxFGCaMASiarGUeRTQCAeD75DXs=
+
+Name: res/drawable/oi_kar.png
+SHA1-Digest: V3KyQ4OXr78oqbq+O0RgJ7QBbxM=
+
+Name: res/drawable/oikar_20_karnapuli.png
+SHA1-Digest: fZ9AhUJ1AS052y7tk/n4AKt7tdA=
+
+Name: res/drawable/one.png
+SHA1-Digest: JwDNhaBMpz/NZSNd1HCJIsFz4Z0=
+
+Name: res/drawable/ra_fola.png
+SHA1-Digest: zaFsH5Zi5y2+QnZU1HhcFbpGtbk=
+
+Name: res/drawable/ree_kar.png
+SHA1-Digest: 5AERCJ8r5FZ4EKyZRgRxTihwKCE=
+
+Name: res/drawable/ref.png
+SHA1-Digest: 0PiXNbDaFS+AGLYKT/pCVRPIhA4=
+
+Name: res/drawable/rshee_kar.png
+SHA1-Digest: bXW0+n+amerdq8HaY/HFRtvRt34=
+
+Name: res/drawable/rshu_kar.png
+SHA1-Digest: b8GmPHTwDjrYAJ/Z+i51VRertWg=
+
+Name: res/drawable/shift.png
+SHA1-Digest: fmB4vZMkeLixud87dcEpNHoYka8=
+
+Name: res/drawable/shift_1.png
+SHA1-Digest: 0YT84+2JsehgtqjvQi9hWYVA7ek=
+
+Name: res/drawable/shift_2.png
+SHA1-Digest: 0aCWp1F3l72A1oFkOHJYVuLVOaY=
+
+Name: res/drawable/shift_3.png
+SHA1-Digest: Vamj1QO/yK6gaA6AD7nnBtTrZ1s=
+
+Name: res/drawable/shift_4.png
+SHA1-Digest: tjMFVz4s3mXxhX7uMfsIgkYYxOA=
+
+Name: res/drawable/sign.png
+SHA1-Digest: R3/THaFirz5Ni9hWy3CcrFx9yAk=
+
+Name: res/drawable/sym_keyboard_delete.png
+SHA1-Digest: Tma0TL58FjboYDnuNecfvZd4FWc=
+
+Name: res/drawable/sym_keyboard_return.png
+SHA1-Digest: k5Hjj9fISgIYgkB2mgnOm09qyUA=
+
+Name: res/drawable/sym_keyboard_search.png
+SHA1-Digest: +qjSOzqt7SQTeWEMgAuoP8kOwyA=
+
+Name: res/drawable/unos.png
+SHA1-Digest: PfJp4qNfcrtM359OXwnIO2sRmUs=
+
+Name: res/layout-land/keyboard.xml
+SHA1-Digest: kmXWfu4BhM3qaoFv2ruvAM4uyNM=
+
+Name: res/layout-land/preview.xml
+SHA1-Digest: BaSilr704ywYA84CHvHBPmfy48o=
+
+Name: res/layout/keyboard.xml
+SHA1-Digest: kmXWfu4BhM3qaoFv2ruvAM4uyNM=
+
+Name: res/layout/preview.xml
+SHA1-Digest: BaSilr704ywYA84CHvHBPmfy48o=
+
+Name: res/xml-land-v11/method.xml
+SHA1-Digest: +K+Zl5l6/98Na5w3RpTMBqa3flQ=
+
+Name: res/xml-land/bangla.xml
+SHA1-Digest: gJWCapXKoKVTEWGbg3LWGtto+SE=
+
+Name: res/xml-land/bangla_num_shift_symbols.xml
+SHA1-Digest: ifedr4StgWw69ictAVLBNtOjFlA=
+
+Name: res/xml-land/bangla_num_symbols.xml
+SHA1-Digest: m+9zM6Xx4YdcVPVCb14nO1yv8hY=
+
+Name: res/xml-land/bangla_shift.xml
+SHA1-Digest: hpEuZ3qQa3oqqNeSNSePKa8fB1g=
+
+Name: res/xml-land/kbd_popup_template.xml
+SHA1-Digest: MCLVL2Kfo+wnvH4gXZ98DSCt/vg=
+
+Name: res/xml-land/method.xml
+SHA1-Digest: t6XfseLYJFSxysm4Xiodbdx2uFw=
+
+Name: res/xml-land/num_shift_symbols.xml
+SHA1-Digest: Ce6YO4JEZJLEm20psMrtbFZmmsw=
+
+Name: res/xml-land/num_symbols.xml
+SHA1-Digest: /qebUenAFY2OOvZF6GQMdUua70c=
+
+Name: res/xml-land/popup_smileys.xml
+SHA1-Digest: zuVfSV42pOHo7188fQkEV3Ttw8A=
+
+Name: res/xml-land/qwerty.xml
+SHA1-Digest: FqMG4KnCkJhhPbDl4gB1D7a3Kho=
+
+Name: res/xml-land/shar_borno.xml
+SHA1-Digest: UbSy0+91tNME8lNkOKVk4mQnyd8=
+
+Name: res/xml-land/signs.xml
+SHA1-Digest: uIRGEO9y0GG6F97433TiFNwU9RI=
+
+Name: res/xml-v11/method.xml
+SHA1-Digest: +K+Zl5l6/98Na5w3RpTMBqa3flQ=
+
+Name: res/xml/ba_jukta_borno.xml
+SHA1-Digest: DvtLnA95ko1d7p6Z30brYaYr0ao=
+
+Name: res/xml/bangla.xml
+SHA1-Digest: 5c4nN4ssM5LAkNncp3UbNCDVtyM=
+
+Name: res/xml/bangla_num_shift_symbols.xml
+SHA1-Digest: 7tBW2a8RiiT2pLotRM1jc8yDhJU=
+
+Name: res/xml/bangla_num_symbols.xml
+SHA1-Digest: kCDcQiScpVWueK4gKJIYFKmK7bs=
+
+Name: res/xml/bangla_shift.xml
+SHA1-Digest: fG5CcW6Tm9U158OLL8/6swQBaFI=
+
+Name: res/xml/cho_jukta_borno.xml
+SHA1-Digest: 7jTsJgxcdpX6baig5kziHfOG26c=
+
+Name: res/xml/d_ra_jukta_borno.xml
+SHA1-Digest: mdrtzIMBKAbtqor6kzOCoK37AkI=
+
+Name: res/xml/da_jukta_borno.xml
+SHA1-Digest: K3JGR51o625tyC9NZDIbaEtWw2A=
+
+Name: res/xml/doa_jukta_borno.xml
+SHA1-Digest: o00LchoWm2LQipLokpeoVIb2s2s=
+
+Name: res/xml/ga_jukta_borno.xml
+SHA1-Digest: Yi+V1MjUQUbxu8DopQgmPT7YlJ0=
+
+Name: res/xml/ha_jukta_borno.xml
+SHA1-Digest: RN8+mA2zLqeSFlGh6XCaboCX2fU=
+
+Name: res/xml/ja_jukta_borno.xml
+SHA1-Digest: qLP7bSNMpeC9yXpXutVBTQ90E6E=
+
+Name: res/xml/ka_jukta_borno.xml
+SHA1-Digest: KNWSn3VG4NC8+PBCsGrLPr1mYVw=
+
+Name: res/xml/kbd_popup_template.xml
+SHA1-Digest: aGmWifdi4TxueM6WX4Iz5Iffvf4=
+
+Name: res/xml/la_jukta_borno.xml
+SHA1-Digest: ROKG4ArZ6+7d9TFdyx9XbsvSVzw=
+
+Name: res/xml/ma_jukta_borno.xml
+SHA1-Digest: Wfzz4OsslmgCCFFksORsQocTaCM=
+
+Name: res/xml/method.xml
+SHA1-Digest: t6XfseLYJFSxysm4Xiodbdx2uFw=
+
+Name: res/xml/na_jukta_borno.xml
+SHA1-Digest: fVrjTzphF95i5gUcS+5tCwRyycM=
+
+Name: res/xml/num_shift_symbols.xml
+SHA1-Digest: 0vmN7DYSryKPSrggi/SHa2u4I3k=
+
+Name: res/xml/num_symbols.xml
+SHA1-Digest: 4gu9JKICJOWEU50dODwQelgqTYM=
+
+Name: res/xml/pa_jukta_borno.xml
+SHA1-Digest: ZxJ1YRrevyJhRBitEpExcONOXAc=
+
+Name: res/xml/popup_smileys.xml
+SHA1-Digest: qZbc2udSQnl5VVUHfDqPMFVl7bo=
+
+Name: res/xml/qwerty.xml
+SHA1-Digest: Ng69ssjFKWiHnx7eoEhPlvFCdcQ=
+
+Name: res/xml/sha_jukta_borno.xml
+SHA1-Digest: ylRDdj6kU75X/Xxx0SBiiI5uQwo=
+
+Name: res/xml/shar_borno.xml
+SHA1-Digest: 9dvIDU5tjyo+hxZZrcrD7jME1xA=
+
+Name: res/xml/signs.xml
+SHA1-Digest: k3Pg4g5AIPUKMZhJZeJ5VSpNj2Q=
+
+Name: res/xml/toa_jukta_borno.xml
+SHA1-Digest: wOARvjKB7p6p99jQ3vxZy9Y6/Yg=
+
+Name: res/xml/tta_jukta_borno.xml
+SHA1-Digest: pSG85dtm5f8mLtO5Kjw3+QU9Kho=
+
+Name: res/xml/yuo_jukta_borno.xml
+SHA1-Digest: xIaHN+N8UUnR5OgQYpVLD5tAHpo=
+
+Name: resources.arsc
+SHA1-Digest: Rjxy4zQH8D/FgKVs1b4mKnLUgUQ=
+
